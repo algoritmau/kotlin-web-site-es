@@ -16,7 +16,7 @@ En este recorrido aprenderás sobre:
 * [Tipos básicos](kotlin-tour-basic-types.md)
 * [Colecciones](kotlin-tour-collections.md)
 * [Flujo de control](kotlin-tour-control-flow.md)
-* [Functions](kotlin-tour-functions.md)
+* [Funciones](kotlin-tour-functions.md)
 * [Clases](kotlin-tour-classes.md)
 * [Seguridad nula](kotlin-tour-null-safety.md)
 
